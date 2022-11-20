@@ -2,7 +2,7 @@
   "name": "new_landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://denismalv.github.io/new_landing/resum",
+  "homepage": "https://denismalv.github.io/new_landing/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
