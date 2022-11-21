@@ -6,7 +6,7 @@ const Page404 = () =>{
 
     return(
         <>
-        
+        <p>again</p>
         </>
     )
 }

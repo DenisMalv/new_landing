@@ -7,7 +7,7 @@ const Hero = () =>{
 
 
     return(
-        <section className="hero">
+        <section className="hero App-header__qwe">
             <h1>Hello! I’m Denis Malniev!</h1>
             <h3>Frontend (React.js) Developer</h3>
             <Button className={''} text={'Contact me'} type={'button'}/>
